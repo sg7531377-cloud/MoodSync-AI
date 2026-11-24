@@ -1,0 +1,6 @@
+{
+  "name": "MoodSync AI",
+  "description": "Real-Time Face Emotion Detection & Mood-Based Music Recommendation System built with OpenCV Haar Cascade, TensorFlow/Keras CNN, Flask, and Vanilla HTML/CSS/JS.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
